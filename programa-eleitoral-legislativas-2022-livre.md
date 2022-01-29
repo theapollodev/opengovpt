@@ -2,7 +2,7 @@
 
 # Programa eleitoral Partido Livre
 
-* [Desenvolvimento Ecológico e Solidário](## Desenvolvimento Ecológico e Solidário)
+* [Desenvolvimento Ecológico e Solidário](# Desenvolvimento Ecológico e Solidário)
 * Igualdade, Justiça Social e Liberdade
 * Trabalho, Rendimento, Tempo e Proteção Social
 * Saúde
