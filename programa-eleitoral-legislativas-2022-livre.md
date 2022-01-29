@@ -3,26 +3,27 @@
 # Programa eleitoral Partido Livre
 
 * [Desenvolvimento Ecológico e Solidário](#desenvolvimento-ecológico-e-solidário)
-* Igualdade, Justiça Social e Liberdade
-* Trabalho, Rendimento, Tempo e Proteção Social
-* Saúde
-* Educação
-* Conhecimento, Ciência e Ensino Superior
-* Cultura e Arte
-* Habitação e Espaço Público
-* Coesão Territorial, Transportes e Mobilidade
-* Emergência Climática e Energia
-* Economia Circular
-* Agricultura e Florestas
-* Conservação da Natureza e Biodiversidade
-* Bem-estar e direitos dos Animais
-* Águas, rios e oceanos
-* Justiça
-* Estado e Instituições
-* Democracia
-* Prevenção e Combate à Corrupção
-* Soberania Digital
-* Portugal na Europa e no Mundo
+* [Igualdade, Justiça Social e Liberdade](#igualdade-justiça-social-e-liberdade)
+* [Trabalho, Rendimento, Tempo e Proteção Social](#trabalho-rendimento-tempo-e-prote%C3%A7%C3%A3o-social)
+* [Saúde](#sa%C3%BAde)
+* [Educação](#educa%C3%A7%C3%A3o)
+* [Conhecimento, Ciência e Ensino Superior](#conhecimento-ci%C3%AAncia-e-ensino-superior)
+* [Cultura e Arte](#cultura-e-arte)
+* [Habitação e Espaço Público](#habita%C3%A7%C3%A3o-e-espa%C3%A7o-p%C3%BAblico)
+* [Coesão Territorial, Transportes e Mobilidade](#coes%C3%A3o-territorial-transportes-e-mobilidade)
+* [Emergência Climática e Energia](#emerg%C3%AAncia-clim%C3%A1tica-e-energia)
+* [Economia Circular](#economia-circular)
+* [Agricultura e Florestas](#agricultura-e-florestas)
+* [Conservação da Natureza e Biodiversidade](#conserva%C3%A7%C3%A3o-da-natureza-e-biodiversidade)
+* [Bem-estar e direitos dos Animais](#bem-estar-e-direitos-dos-animais)
+* [Águas, rios e oceanos](#%C3%A1guas-rios-e-oceanos)
+* [Justiça](#justi%C3%A7a)
+* [Estado e Instituições](#estado-e-institui%C3%A7%C3%B5es)
+* [Democracia](#democracia)
+* [Prevenção e Combate à Corrupção](#preven%C3%A7%C3%A3o-e-combate-%C3%A0-corrup%C3%A7%C3%A3o)
+* [Soberania Digital](#soberania-digital)
+* [Portugal na Europa e no Mundo](#portugal-na-europa-e-no-mundo)
+
 
 ## Desenvolvimento Ecológico e Solidário
 
