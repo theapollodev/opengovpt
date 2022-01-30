@@ -16,4 +16,5 @@
 12. Aumentar em 25% face a 2017 o número de empresas nacionais exportadoras para atingir um volume de exportações equivalente a 53% do PIB em 2030
 
 [12 PRIORIDADES PARA OS PRÓXIMOS 4 ANOS](https://github.com/theapollodev/govpt/blob/main/12-prioridades-para-os-proximos-4-anos_7jan(1).pdf)
+
 [Programa Eleitoral Completo Partido Socialista 2022 (Fazer download se não conseguir abrir no browser)](https://github.com/theapollodev/govpt/blob/main/Programa-Eleitoral-PS2022_v5_6Jan_pagsoltas(1).pdf)
