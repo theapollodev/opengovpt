@@ -1,6 +1,6 @@
 [**Fonte**](https://programa.partidolivre.pt/)
 
-[Programa completo em PDF (Fazer download se não conseguir visualizar no browser)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/livre/Programa_Eleitoral_2022_Livre.pdf)
+[Programa completo em PDF (Fazer download se não conseguir visualizar no browser)](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/livre/Programa_Eleitoral_2022_Livre.pdf)
 
 # Programa eleitoral Partido Livre
 
