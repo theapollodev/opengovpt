@@ -84,15 +84,15 @@ Qualquer um pode criar pedidos, fazer sugestões, discutir/debater assuntos, etc
 
 ### Programas eleitorais 2022
 
-* [IL (Iniciativa Liberal)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/il/programa-eleitoral-legislativas-2022-il.md)
-* [PS (Partido Socialista)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/ps/programa-eleitoral-legislativas-2022-ps.md)
-* [PSD (Partido Social Democrata)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/psd/programa-eleitoral-legislativas-2022-psd.md)
-* [BE (Bloco de Esquerda)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/be/programa-eleitoral-legislativas-2022-be.md)
-* [CDU (Coligação Democrática Unitária)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/cdu/programa-eleitoral-legislativas-2022-cdu.md)
-* [CDS (Partido Centro Democrático Social)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/cds/programa-eleitoral-legislativas-2022-cds.md)
-* [PAN (Pessoas–Animais–Natureza)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/pan/programa-eleitoral-legislativas-2022-pan.md)
-* [CHEGA](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/chega/programa-eleitoral-legislativas-2022-chega.md)
-* [LIVRE](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/livre/programa-eleitoral-legislativas-2022-livre.md)
+* [IL (Iniciativa Liberal)](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/il/programa-eleitoral-legislativas-2022-il.md)
+* [PS (Partido Socialista)](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/ps/programa-eleitoral-legislativas-2022-ps.md)
+* [PSD (Partido Social Democrata)](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/psd/programa-eleitoral-legislativas-2022-psd.md)
+* [BE (Bloco de Esquerda)](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/be/programa-eleitoral-legislativas-2022-be.md)
+* [CDU (Coligação Democrática Unitária)](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/cdu/programa-eleitoral-legislativas-2022-cdu.md)
+* [CDS (Partido Centro Democrático Social)](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/cds/programa-eleitoral-legislativas-2022-cds.md)
+* [PAN (Pessoas–Animais–Natureza)](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/pan/programa-eleitoral-legislativas-2022-pan.md)
+* [CHEGA](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/chega/programa-eleitoral-legislativas-2022-chega.md)
+* [LIVRE](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/livre/programa-eleitoral-legislativas-2022-livre.md)
 
 ### Datas
 
