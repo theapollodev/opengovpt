@@ -33,4 +33,4 @@
 ![image](https://user-images.githubusercontent.com/98668013/151696044-e15fb56f-47bc-45d7-9970-05d747af8169.png)
 
 
-[Programa em PDF (Fazer download se não conseguir visualizar no browser)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/cds/Compromisso%20Eleitoral_CDS.pdf)
+[Programa em PDF (Fazer download se não conseguir visualizar no browser)](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/cds/Compromisso%20Eleitoral_CDS.pdf)
