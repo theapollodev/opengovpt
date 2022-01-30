@@ -4,7 +4,7 @@
 
 [PDF programa completo (Fazer download se não conseguir visualizar no browser)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/il/Iniciativa-Liberal-Programa-Eleitoral-2022-completo.pdf)
 
-# PROGRAMA ELEITORAL LEGISLATIVAS 2022 Iniciativa Liberal
+# PROGRAMA ELEITORAL LEGISLATIVAS 2022 Iniciativa Liberal (resumo)
 
 ## 1 Justiça
 
