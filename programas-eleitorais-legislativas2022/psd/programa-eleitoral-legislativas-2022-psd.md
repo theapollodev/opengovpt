@@ -1,5 +1,7 @@
 [**Fonte**](https://www.psd.pt/pt/programa-eleitoral-2022)
 
+[Programa completo (Fazer download se não conseguir visualizar no browser)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/psd/PSD%20Programa%20Eleitoral%202022%20v4.pdf)
+
 # Programa Eleitoral Partido Social Democrata 2022
 
 ![image](https://user-images.githubusercontent.com/98668013/151695886-6df531e2-c2b0-4d84-969a-4b87e1d6641c.png)
@@ -10,6 +12,3 @@
 ![image](https://user-images.githubusercontent.com/98668013/151695779-6ef09713-6f48-49f7-977a-5cd1ec77466e.png)
 ![image](https://user-images.githubusercontent.com/98668013/151695785-e017afc7-5cd5-4814-9316-95563bfd63d5.png)
 ![image](https://user-images.githubusercontent.com/98668013/151695788-a5f193e5-83cb-417d-8a85-b1e75d753e95.png)
-
-
-[Programa completo (Fazer download se não conseguir visualizar no browser)](https://github.com/theapollodev/govpt/blob/main/PSD%20Programa%20Eleitoral%202022%20v4.pdf)
