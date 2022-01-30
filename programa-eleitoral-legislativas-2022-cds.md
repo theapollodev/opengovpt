@@ -1,4 +1,4 @@
-[Link](https://www.cdslegislativas2022.com/)
+[Fonte](https://www.cdslegislativas2022.com/)
 
 # PROGRAMA ELEITORAL LEGISLATIVAS 2022 CDS-PP
 
