@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Open GovPT é um projeto **aberto, ** relacionado com o **governo e a política em Portugal, ** onde todos podem contribuir e acompanhar de forma **transparente.**
+Open GovPT é um projeto **aberto,** relacionado com o **governo e a política em Portugal,** onde todos podem contribuir e acompanhar de forma **transparente.**
 
 Qualquer um pode criar pedidos, fazer sugestões, discutir/debater assuntos, etc...
 
