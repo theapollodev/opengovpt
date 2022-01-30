@@ -4,13 +4,7 @@
 PROGRAMA ELEITORAL LEGISLATIVAS 2022
 Publicado a 23-12-2021
 
-# PREÂMBULO
-
-Aprovado no VII Conselho Nacional (Sagres, Algarve, 2 e 3 de julho de 2021), o Programa Político 2021 ratificou o contrato social de longa duração entre o Partido CHEGA e os Portugueses. Trata-se do referente mais importante no quotidiano do Partido que permite aos Portugueses avaliarem o CHEGA, em simultâneo, num ciclo histórico ininterrupto que remonta à fundação do Partido, em 2019, e a cada nova eleição.
-
-Considerando que o Programa Político 2021 determina a identidade do CHEGA («quem somos»), os nossos valores morais, princípios cívicos, princípios políticos e grandes linhas de orientação em diferentes áreas da governação – as especificidades das Eleições Legislativas de 30 de janeiro de 2022 impõem o complemento deste Programa Eleitoral Legislativas 2022 («o que vamos fazer»).
-
-# LEGISLATIVAS 2022
+# PROGRAMA ELEITORAL LEGISLATIVAS 2022 CHEGA
 
 POR UM NOVO REGIME DEMOCRÁTICO:
 
