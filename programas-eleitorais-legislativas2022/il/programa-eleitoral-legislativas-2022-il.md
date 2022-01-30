@@ -1,8 +1,8 @@
 [**Fonte**](https://iniciativaliberal.pt/legislativas-2022/programa-eleitoral/)
 
-[PDF programa em resumo (Fazer download se não conseguir visualizar no browser)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/il/IL_Programa_Eleitoral_Legislativas_2022-resumo.pdf)
+[PDF programa em resumo (Fazer download se não conseguir visualizar no browser)](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/il/IL_Programa_Eleitoral_Legislativas_2022-resumo.pdf)
 
-[PDF programa completo (Fazer download se não conseguir visualizar no browser)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/il/Iniciativa-Liberal-Programa-Eleitoral-2022-completo.pdf)
+[PDF programa completo (Fazer download se não conseguir visualizar no browser)](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/il/Iniciativa-Liberal-Programa-Eleitoral-2022-completo.pdf)
 
 # PROGRAMA ELEITORAL LEGISLATIVAS 2022 Iniciativa Liberal (resumo)
 
