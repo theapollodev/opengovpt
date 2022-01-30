@@ -1,6 +1,6 @@
 [**Fonte**](https://www.psd.pt/pt/programa-eleitoral-2022)
 
-[Programa completo (Fazer download se não conseguir visualizar no browser)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/psd/PSD%20Programa%20Eleitoral%202022%20v4.pdf)
+[Programa completo (Fazer download se não conseguir visualizar no browser)](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/psd/PSD%20Programa%20Eleitoral%202022%20v4.pdf)
 
 # Programa Eleitoral Partido Social Democrata 2022
 
