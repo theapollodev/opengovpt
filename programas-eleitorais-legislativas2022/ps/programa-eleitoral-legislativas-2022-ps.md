@@ -1,12 +1,12 @@
 [**Fonte**](https://ps.pt/programa-eleitoral-do-ps-as-legislativas-de-2022/)
 
-[Programa Eleitoral Completo Partido Socialista 2022 em PDF (Fazer download se não conseguir abrir no browser)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/ps/Programa-Eleitoral-PS2022_v5_6Jan_pagsoltas.pdf)
+[Programa Eleitoral Completo Partido Socialista 2022 em PDF (Fazer download se não conseguir abrir no browser)](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/ps/Programa-Eleitoral-PS2022_v5_6Jan_pagsoltas.pdf)
 
-[Programa Eleitoral em resumo Partido Socialista 2022 em PDF (Fazer download se não conseguir abrir no browser)](https://github.com/theapollodev/govpt/blob/main/programas-eleitorais-legislativas2022/ps/12-prioridades-para-os-proximos-4-anos_7jan.pdf)
+[Programa Eleitoral em resumo Partido Socialista 2022 em PDF (Fazer download se não conseguir abrir no browser)](https://github.com/theapollodev/opengovpt/blob/main/programas-eleitorais-legislativas2022/ps/12-prioridades-para-os-proximos-4-anos_7jan.pdf)
 
 # Programa Eleitoral Partido Socialista 2022
 
-[12 PRIORIDADES PARA OS PRÓXIMOS 4 ANOS](https://github.com/theapollodev/govpt/blob/main/12-prioridades-para-os-proximos-4-anos_7jan(1).pdf)
+[12 PRIORIDADES PARA OS PRÓXIMOS 4 ANOS](https://github.com/theapollodev/opengovpt/blob/main/12-prioridades-para-os-proximos-4-anos_7jan(1).pdf)
 
 1. Convergir entre 2021 e 2026. Crescer por ano em média 0,5 pontos percentuais acima da média da UE27 e 1 p.p. acima da média da zona euro
 2. Manter as contas públicas certas. Reduzir, no mínimo, até 2026, o peso da dívida pública no PIB para valores inferiores a 110%
