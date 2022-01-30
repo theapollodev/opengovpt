@@ -1,5 +1,7 @@
 [**Fonte**](https://ps.pt/programa-eleitoral-do-ps-as-legislativas-de-2022/)
 
+# Programa Eleitoral Partido Socialista 2022
+
 [12 PRIORIDADES PARA OS PRÓXIMOS 4 ANOS](https://github.com/theapollodev/govpt/blob/main/12-prioridades-para-os-proximos-4-anos_7jan(1).pdf)
 
 
