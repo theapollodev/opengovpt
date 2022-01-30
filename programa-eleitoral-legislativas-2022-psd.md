@@ -9,4 +9,4 @@
 ![image](https://user-images.githubusercontent.com/98668013/151695788-a5f193e5-83cb-417d-8a85-b1e75d753e95.png)
 
 
-[Programa completo](https://github.com/theapollodev/govpt/blob/main/PSD%20Programa%20Eleitoral%202022%20v4.pdf)
+[Programa completo (Fazer download se não conseguir visualizar no browser)](https://github.com/theapollodev/govpt/blob/main/PSD%20Programa%20Eleitoral%202022%20v4.pdf)
