@@ -121,6 +121,7 @@ Qualquer um pode criar pedidos, fazer sugestões, discutir/debater assuntos, etc
   + [ ] Proporem idéias neste canal
   + [ ] Estarem abertos às sugestões e críticas aqui feitas pelos portugueses
 * [ ] Criar logotipo para o projeto
+* [ ] Contactar partidos e envolvê-los no projeto
 
 # Como contribuir
 
