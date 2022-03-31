@@ -1,3 +1,8 @@
+# Fevereiro
+
+- [PCP e BE votaram contra moção que condena invasão militar da Ucrânia pela Rússia?](https://poligrafo.sapo.pt/fact-check/pcp-e-be-de-setubal-votaram-contra-mocao-que-condena-invasao-militar-da-ucrania-pela-russia)
+
+
 # Março
 
 
